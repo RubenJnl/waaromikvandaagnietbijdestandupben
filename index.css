@@ -1,4 +1,3 @@
-
 body {
   padding: 1em;
   display: flex;
@@ -19,6 +18,10 @@ form {
   width: 90%;
 }
 
+input {
+  padding: .5em;
+}
+
 .input-add {
   width: 10%;
   display: flex;
@@ -28,6 +31,19 @@ form {
 
 .button-wrapper {
   margin-top: 1em;
+}
+
+button {
+  border: 0;
+  padding: .5em;
+  border-radius: .5em;
+  color: #1d1d1d;
+}
+
+.button--cta {
+  padding: .5em 1em;
+  background: #00c56c;
+  font-size: 1em
 }
 
 ul {
