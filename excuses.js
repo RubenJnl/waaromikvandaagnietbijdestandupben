@@ -7,7 +7,9 @@ const excuses = {
   "ed5": "Ritje teststraat",
   "ed6": "Controle ziekenhuis",
   "ed7": "Mijn teams doet raar keuken met auto ok zo aan...",
-  "ed8": "Wij zijn vandaag in Eindhoven"
+  "ed8": "Wij zijn vandaag in Eindhoven",
+  "ed9": "De trein sloeg station Nijmegen Goffert over...",
+  "ed10": "Verslapen"
 };
 
 export default excuses
